@@ -11,6 +11,9 @@ first to import the your Data in Gretl and to Click ===> Ordinary lest Sqares an
   
   
   
-! [3D plot](https://user-images.githubusercontent.com/76168112/123504360-99e87780-d60d-11eb-9a30-8f22a07f9751.png)
- 
+! [3D plot]
+<img
 
+src= (https://user-images.githubusercontent.com/76168112/123504360-99e87780-d60d-11eb-9a30-8f22a07f9751.png)
+ 
+/>
